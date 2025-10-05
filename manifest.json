@@ -1,6 +1,6 @@
 {
-    "name": "menu",
-    "short_name": "menu",
+    "name": "biogest",
+    "short_name": "biogest",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
